@@ -1,5 +1,5 @@
 # EyeCanAI
-Eye Can AI is a desktop assistive technology solution that was designed for improving accessibility for people who have visual impairments through the provision of real-time audible descriptions of the visual content. The application leverages Ai-pwoered image captioning and text-to-speech technology to offer an accessible and intuitive solution for image interpretation in offline environments.
+Eye Can AI is a desktop assistive technology solution that was designed for improving accessibility for people who have visual impairments through the provision of real-time audible descriptions of the visual content. The application leverages AI-powered image captioning and text-to-speech technology to offer an accessible and intuitive solution for image interpretation in offline environments.
 
 ## Features
 - Real-time image captioning: Uses BLIP (Bootstrapped Language Image Pretraining) for generating natural language descriptions from images.
