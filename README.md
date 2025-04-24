@@ -8,7 +8,20 @@ Eye Can AI is a desktop assistive technology solution that was designed for impr
 - Secure user management: Includes user authentication with password hashing using SQLite.
 - Text-to-speech output: Relays the generated caption to users audibly using the pyttsx3 engine.
 
+## Screenshots
+Here’s a preview of what the application looks like:
+ 
+![Login Screen](./images/Screenshot%202025-04-23%20234450.png) 
 
+*Login Screen*
+
+![Main App Screen](./images/Screenshot%202025-04-23%20234552.png)  
+
+*Main App Interface showing image upload and capture options*
+
+![Another View](./images/Screenshot%202025-04-23%20234637.png) 
+
+*Live webcam feed with key binding to capture image for real-time captioning with detailed description.*
 
 ## Components
 - AppManager: Manages the main application flow, including user login and interface control.
